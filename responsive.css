@@ -1,0 +1,63 @@
+@media screen and (max-width:768px){
+	.habit-columns {
+		margin: -20px 0 0 0;
+		width: 33%;		
+	}	
+	.habit-columns h3 {
+		margin:0;
+		padding:0;
+		text-align: center;
+	}
+	.habit-columns p {
+		text-align: center;
+		padding: 15px 15px 0 15px;
+		margin: 0;
+	}
+	.about-pic {
+		width: 400px;
+		height: 100%;
+	}
+	.about-pic img {
+		width:100%;
+		height:100%;
+	}
+	.skill-text {
+		width: 47%;
+	}
+	.skill-text h2 {
+		font-size:25px;
+	}
+	.skill-graph {
+		width: 40%;
+	}
+	.skill-columns h3 {
+		font-size: 18px;
+	}
+	.box {
+		width: 246px;
+	}
+	.skill-columns:nth-child(1) .subbox {
+		width: 210px;
+	}
+	.skill-columns:nth-child(1) .subbox p {
+		margin: 4px 0 0 170px;
+	}
+	.skill-columns:nth-child(2) .subbox{
+
+	}
+	.skill-columns:nth-child(2) .subbox p {
+
+	}
+	.skill-columns:nth-child(3) .subbox {
+
+	}
+	.skill-columns:nth-child(3) .subbox p {
+
+	}
+	.skill-columns:nth-child(4) .subbox {
+
+	}
+	.skill-columns:nth-child(4) .subbox p {
+
+	}	
+}
